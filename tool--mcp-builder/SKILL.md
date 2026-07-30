@@ -4,6 +4,7 @@ description: Guides creation of high-quality MCP (Model Context Protocol) server
 compatibility: "No external tools required. Self-sufficient: if references/node_mcp_server-part-*.md or python_mcp_server-part-*.md are unavailable, apply MCP best practices from training knowledge, labelled as 'training-based — verify against current MCP documentation'."
 license: Complete terms in LICENSE.txt
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

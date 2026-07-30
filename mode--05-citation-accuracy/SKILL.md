@@ -53,6 +53,7 @@ metadata:
     under-caught failure relative to outright fabrication, and on labeling-over-refusing as
     the correct calibration for unverifiable sources.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-03
 ---
 

@@ -33,6 +33,7 @@ metadata:
     prevention (Nielsen Norman Group heuristics). All frameworks are standard
     published practice; no benchmark claims are made.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-23
 ---
 

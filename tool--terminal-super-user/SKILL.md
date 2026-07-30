@@ -11,6 +11,7 @@ description: >
   ssh/tmux, performance profiling, launchd, codesign/notarization, and Homebrew.
   Use it whenever the work lives mostly in the shell and a wrong flag is costly.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

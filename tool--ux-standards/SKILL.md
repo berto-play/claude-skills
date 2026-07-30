@@ -3,6 +3,7 @@ name: tool--ux-standards
 description: "Audits and enforces UX standards across any interface — web, iOS, Android, macOS, visionOS, responsive, native, hybrid. Triggers on: accessibility check, WCAG audit, UX review, heuristic evaluation, check my UI, review this component, is this accessible, usability review, compliance check, or when paired with craft--ui-design-general as a pre-delivery gate. Covers WCAG 2.2, Nielsen's heuristics, platform HIGs, responsive design rules, performance guidelines, and cognitive accessibility. Outputs severity-scored findings with exact fix instructions."
 compatibility: "No external tools required. Reads references/ for the complete rule database. Falls back to training knowledge if files are absent, labelled as 'General standard' rather than 'Rule database'."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

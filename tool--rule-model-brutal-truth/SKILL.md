@@ -11,6 +11,7 @@ description: >
   telling me you can't then doing it", "verify don't guess", "don't say it's done
   unless it is", or any time the operator demands forced, receipt-backed accuracy.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

@@ -8,6 +8,7 @@ description: >
   changelog. Activates on "new netlify project", "scaffold a site", "start a new site",
   "create a netlify project", "/tool--netlify-new".
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

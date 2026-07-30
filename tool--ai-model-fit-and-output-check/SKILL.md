@@ -14,6 +14,7 @@ description: >
   guidance on when a non-Claude tool (Gemini, DeepSeek, Grok, Manus) fits better.
 last_reviewed: 2026-07-28
 classification: trusted-input
+type: capability
 ---
 
 # AI Model Fit & Output Check — Right Model, Good-Enough Output

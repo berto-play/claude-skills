@@ -1,6 +1,6 @@
 # Claude Skills
 
-A public catalog of 46 Claude Code skills I've built. Each folder is one skill: a `SKILL.md` (the instructions Claude reads) plus `references/`.
+A public catalog of 43 Claude Code skills I've built. Each folder is one skill: a `SKILL.md` (the instructions Claude reads) plus `references/`.
 
 Grouped by namespace: `mode--` (behavioral enforcement that holds for a session), `tool--` (task utilities), `craft--` (design & product), `fun--` (finance).
 
@@ -20,11 +20,10 @@ Grouped by namespace: `mode--` (behavioral enforcement that holds for a session)
 - **[`mode--creative-vibe`](mode--creative-vibe/SKILL.md)** — A creative-judgment MODE that applies the operator's design constitution — THE MANIFESTO OF BALANCED CREATION (00 Shared Global Assets/Global Design Language...
 - **[`mode--unhinged`](mode--unhinged/SKILL.md)** — A direct-communication MODE that activates and holds for the entire conversation when the user says any of: "be direct", "be honest", "tell me the truth", "d...
 
-## Tools — utilities & analysis (27)
+## Tools — utilities & analysis (24)
 
 - **[`tool--ai-guardrails`](tool--ai-guardrails/SKILL.md)** — Zero-hallucination enforcement for document extraction, synthesis, and analysis
 - **[`tool--ai-model-fit-and-output-check`](tool--ai-model-fit-and-output-check/SKILL.md)** — Assessment tool that answers two questions on demand: (A) "Am I using the right model or tool for this task?" and (B) "Is this output good enough?" — checked...
-- **[`tool--automation-architect`](tool--automation-architect/SKILL.md)** — Interactive builder for high-accuracy, repeatable automations
 - **[`tool--benchmarking-research`](tool--benchmarking-research/SKILL.md)** — Rigorous end-to-end benchmarking methodology
 - **[`tool--critical-thinking`](tool--critical-thinking/SKILL.md)** — Advanced Critical Thinking Engine (ACTE v1.1) — deep reasoning, argument evaluation, fallacy detection, ethical analysis, decision support, and belief stress...
 - **[`tool--doc-safety-analysis`](tool--doc-safety-analysis/SKILL.md)** — Safety-critical document extraction and validation engine
@@ -44,8 +43,6 @@ Grouped by namespace: `mode--` (behavioral enforcement that holds for a session)
 - **[`tool--osint-investigator-profile`](tool--osint-investigator-profile/SKILL.md)** — Open-source intelligence engine for profiling individuals, companies, and networks
 - **[`tool--osint-job-radar`](tool--osint-job-radar/SKILL.md)** — Open-source intelligence engine for job market research and company hiring analysis
 - **[`tool--rule-model-brutal-truth`](tool--rule-model-brutal-truth/SKILL.md)** — Brutal-truth enforcement that forces verified accuracy and kills the three time-wasting lies: (1) the Reversal — saying "I can't do X because Y" and then doi...
-- **[`tool--sota-skill-builder`](tool--sota-skill-builder/SKILL.md)** — Builds Claude Code skills to the current Agent Skills specification and hands them to independent QA as a checksummed candidate
-- **[`tool--sota-skill-qa`](tool--sota-skill-qa/SKILL.md)** — Audits Claude Code skills for build compliance and grades candidates against fixed criteria before they ship
 - **[`tool--terminal-super-user`](tool--terminal-super-user/SKILL.md)** — Turns the assistant into a world-class command-line operator for macOS (Apple Silicon, zsh, BSD userland) and Linux
 - **[`tool--transcript-synthesis`](tool--transcript-synthesis/SKILL.md)** — 
 - **[`tool--ux-standards`](tool--ux-standards/SKILL.md)** — 

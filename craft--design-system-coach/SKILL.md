@@ -3,6 +3,7 @@ name: craft--design-system-coach
 description: Guided, one-question-at-a-time coaching for scoping, structuring, and operating a design system — use this when the user wants to be walked through it conversationally. (For batch intake and source-cited architecture decisions, use craft--design-system-and-figma-architecture instead.) Asks one focused question at a time, explains the relevant playbook content, and outputs a tailored plan covering file architecture, tokens, workflow, governance, and retrofit. Activates on phrases like "design system", "Figma file architecture", "design tokens", "white-label setup", "component library", or when a user describes scaling across products, brands, or platforms. Works for any company shape — single product, multi-product, regulated industries, or multi-brand white-label.
 compatibility: "No external tools required. Self-sufficient: if playbook part files are absent, apply the module framework from the Knowledge Base table using training knowledge, labelled as 'Practitioner consensus' rather than 'Playbook-backed'."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

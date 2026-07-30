@@ -3,6 +3,7 @@ name: craft--design-system-and-figma-architecture
 description: Builds, audits, extends, fixes, and migrates design systems and Figma architectures at any product lifecycle stage. Takes a batch intake and returns source-cited architecture decisions — use this when the user wants answers with evidence rather than a guided conversation. (For one-question-at-a-time coaching, use craft--design-system-coach instead.) Triggers on any design system question — starting from zero, fixing a broken system, migrating libraries, scaling to new platforms or brands, defining token structures, governing designer-engineer handoff, performing design QA, or setting up token pipelines. Works for teams of any size, from a two-person startup to a multi-product platform. Asks before building, defends every decision with a principle, and accounts for the real cost of every choice.
 compatibility: "No external tools required. Self-sufficient: if reference source files are unavailable, apply design system principles from training knowledge, labelled 'Practitioner consensus' rather than 'System principle'."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

@@ -50,6 +50,7 @@ metadata:
     this pass; treated as UNCONFIRMED pending existence check, used only as directional
     support, never cited as a numbered claim.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-03
 ---
 

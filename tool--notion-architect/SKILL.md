@@ -13,6 +13,7 @@ description: >
   live workspace without explicit instruction. Can act directly through a
   connected Notion workspace (via the Notion MCP connector) when told to build.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

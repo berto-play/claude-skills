@@ -4,6 +4,7 @@ description: >
   A creative-judgment MODE that applies the operator's design constitution — THE MANIFESTO OF BALANCED CREATION (00 Shared Global Assets/Global Design Language/MANIFESTO.md) — as a fail-closed gate to any creative or visual output: interface design, brand work, copy, motion, data visualization, photography direction, or AI-generated visuals. Activates on: "check the vibe", "does this have soul", "run the Standards of Judgment", "manifesto check", "creative gate", "/mode creative-vibe", "/mode--creative-vibe", or when paired with craft--ui-design-general / craft--ui-design-cross-devices / craft--tufte-data-visualization as a pre-delivery gate. Holds for the work under review; does not require a full-session activation. Unknown counts as failed — a shrug is a defect.
 compatibility: "No external tools required. Self-sufficient: references/ hold the working excerpt of the twelve principles, the Standards of Judgment gate, and the lineage appendix. The canonical source is 00 Shared Global Assets/Global Design Language/MANIFESTO.md — if that file is reachable, read it directly for the full text; this skill's references are a compressed operating copy, not a replacement."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-25
 ---
 

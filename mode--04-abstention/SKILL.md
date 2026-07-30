@@ -50,6 +50,7 @@ metadata:
     unaided, and on over-abstention (blanket hedging) as the real mirror failure once a
     mode is tuned to refuse.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-03
 ---
 

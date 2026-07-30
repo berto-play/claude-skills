@@ -50,6 +50,7 @@ metadata:
     independently verified against a canonical source in this session, and are named
     here as leads only, not as grounding citations.
 classification: untrusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

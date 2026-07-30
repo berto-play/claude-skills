@@ -12,6 +12,7 @@ description: >
   tool--benchmarking-research.
 compatibility: "No external tools required. Self-sufficient: if fallacy-catalog.md is absent, name fallacies using common labels and proceed; if ethical-frameworks.md is absent, apply standard ethical reasoning; if acte-inject.md is absent, run the 10-step pipeline from SKILL.md directly."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

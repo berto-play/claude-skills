@@ -3,6 +3,7 @@ name: tool--transcript-synthesis
 description: "Synthesizes any meeting or interview transcript into an accurate, non-hallucinated structured output. Activates when the user pastes a transcript, shares a recording link (Soniox, Zoom, etc.), or uploads a transcript file (PDF, Word, markdown, txt, SRT, VTT). Works with any format. Runs a silent 10-step analysis pipeline before producing output. Triggers on any transcript content or requests to summarize a meeting, interview, 1:1, or recorded session."
 compatibility: "No external tools required. Self-sufficient: the 10-step pipeline runs entirely on the provided transcript. references/methods.md is for research-grade source attribution escalation only — the pipeline completes without it."
 classification: untrusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

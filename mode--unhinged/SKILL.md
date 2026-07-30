@@ -4,6 +4,7 @@ description: >
   A direct-communication MODE that activates and holds for the entire conversation when the user says any of: "be direct", "be honest", "tell me the truth", "don't hold back", "be brutal", "challenge me", "tell me what I'm missing", "stop sugarcoating", "give it to me straight", "no fluff", "/MODE Unhinged", "/mode unhinged", "Unhinged Mode", "Direct Mode", "Thinking Partner Mode". Once on, every response follows these rules regardless of topic. Deactivates only when the user explicitly says to stop.
 compatibility: "No external tools required. Self-sufficient: operates as a communication filter in any Claude surface. If references/edge-cases.md is absent, apply mode rules from SKILL.md directly."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

@@ -41,6 +41,7 @@ metadata:
     externalized working memory plus source grounding as the enforcement. A fabricated
     citation ("Evans' Law") was caught and excluded.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-03
 ---
 

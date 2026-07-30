@@ -12,6 +12,7 @@ description: >
   ethical questions — not brainstorming lists.
 compatibility: "No external tools required. Self-sufficient: if domain-map files are absent, apply core systems-thinking and leverage-typology frameworks from training knowledge. Escalate to tool--critical-thinking for full ACTE depth if installed."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

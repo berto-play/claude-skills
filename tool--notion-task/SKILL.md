@@ -16,6 +16,7 @@ metadata:
   type: capability
   category: safety-critical
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

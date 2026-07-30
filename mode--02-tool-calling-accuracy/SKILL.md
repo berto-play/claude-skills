@@ -38,6 +38,7 @@ metadata:
     parameter errors as most common, silent failure as most damaging, and recovery over
     call-accuracy as the true reliability lever.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-03
 ---
 

@@ -23,6 +23,7 @@ metadata:
   classification: trusted-input
   last-reviewed: "2026-07-03"
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-03
 ---
 

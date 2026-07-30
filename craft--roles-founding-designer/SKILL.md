@@ -3,6 +3,7 @@ name: craft--roles-founding-designer
 description: A structured thinking framework for a founding senior designer at a startup operating at the intersection of craft and product strategy. Sharpens vague problem statements, plans lean design work, prepares for stakeholder conversations, and sets up design operations with clear business rationale. Triggers on "how should I approach this", "help me think about this feature", "I got a vague brief", "how do I justify this to the founder", "what should I prioritize", or any question about navigating design decisions in a startup without a Head of Design.
 compatibility: "No external tools required. Self-sufficient: operates from training knowledge of founding design practice. No references/ folder — all frameworks are in SKILL.md."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

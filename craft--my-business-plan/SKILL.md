@@ -2,6 +2,7 @@
 name: craft--my-business-plan
 description: Guides you step-by-step to a rigorous, honest business plan for any idea — vending machine, SaaS, podcast, agency, sticker company, or anything else. Fuses operator strategy (Helmer 7 Powers, Munger inversion, Thiel distribution, JTBD) with founding-designer craft (IA, activation flow, brand as moat). Never invents numbers — assigns real homework (interviews, competitor teardowns, pre-sales) and waits. Primary output is a concise, defensible plan document; pitch deck only if raising. Triggers on "help me build a business plan", "vet my idea", "I want to start [any business]", "I have an offer, help me structure it", "pressure-test this", "should I actually build this", or any request to go from idea or partial progress to a plan a skeptic can stress-test.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

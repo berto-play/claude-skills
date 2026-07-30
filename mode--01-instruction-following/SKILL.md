@@ -40,6 +40,7 @@ metadata:
     naming a forbidden token can activate it) and on the need for an external verification
     layer that prompt-level enforcement cannot replace.
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-03
 ---
 

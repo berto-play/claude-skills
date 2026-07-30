@@ -22,6 +22,7 @@ metadata:
     - "AI Strict Guardrails Directive v2.0.0 (Manus AI)"
     - "Microsoft Azure AI Foundry: Best Practices for Mitigating Hallucinations in LLMs"
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

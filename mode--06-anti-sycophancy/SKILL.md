@@ -30,6 +30,7 @@ metadata:
     pedagogical sycophancy CS-SYC (arXiv 2605.14604, Kasneci & Kasneci, confirmed);
     causal separability (arXiv 2509.21305).
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

@@ -3,6 +3,7 @@ name: craft--ui-design-general
 description: "Designs production-grade graphical interfaces for any platform — web, iOS, Android, macOS, Vision Pro, responsive, native, hybrid. Triggers on: UI design, build a page/screen/component, frontend design, app interface, dashboard, landing page, design a form/modal/nav, make it look good, redesign this, or any request to create visual interface code. Produces working code with a committed aesthetic direction, platform-aware patterns, and strict visual quality gates. One skill, one job: visual design execution. Pair with tool--ux-standards for compliance auditing."
 compatibility: "No external tools required. Works with any frontend stack: HTML/CSS/JS, React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui, Jetpack Compose. Reads references/ for curated databases; falls back to training knowledge if files are absent."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

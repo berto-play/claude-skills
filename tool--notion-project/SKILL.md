@@ -18,6 +18,7 @@ metadata:
   category: safety-critical
   last_reviewed: 2026-07-06
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-06
 ---
 

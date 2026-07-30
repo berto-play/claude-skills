@@ -22,6 +22,7 @@ metadata:
   category: craft
   language: any
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-13
 ---
 

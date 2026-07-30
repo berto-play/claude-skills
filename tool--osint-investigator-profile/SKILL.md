@@ -18,6 +18,7 @@ metadata:
   category: investigative
   language: any
 classification: untrusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

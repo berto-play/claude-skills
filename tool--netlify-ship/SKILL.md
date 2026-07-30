@@ -9,6 +9,7 @@ description: >
   Activates on "ship it", "deploy this", "deploy the update", "push to netlify", "go live",
   "netlify ship", "/tool--netlify-ship".
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 

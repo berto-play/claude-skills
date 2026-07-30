@@ -3,6 +3,7 @@ name: craft--ui-design-cross-devices
 description: "Acts as a veteran visual/UI designer (decades of experience, from feature-phone/BlackBerry-era interfaces through modern 2026-2027 UI) designing one coherent, research-grounded interface system across surface type (marketing, editorial, commerce, application, etc.) and the full device spectrum — watch, phone, tablet, desktop, TV/projector, kiosk, print, Vision Pro, XR. Classifies the surface archetype and device tiers first, then applies sourced rules (WCAG 2.2, Nielsen Norman Group, Apple HIG, Material Design, Baymard, IBM Carbon, Shopify Polaris) rather than invented taste. Enforces brand guidelines as a hard input. Triggers on: design across all devices, responsive from mobile to TV, cross-platform design system, dashboard/CMS/ecommerce/marketing UI, 10-foot UI, TV interface, brand-driven UI design, what are the best practices for X device or X site type. Distinct from craft--ui-design-general (single-surface visual execution, which this skill calls into for typography/color/motion)."
 compatibility: "Device- and stack-agnostic. Applies to web, native mobile, native TV platforms, and large-format/spatial displays. Reads references/ for canonical sources, surface archetypes, and device tiers — these are load-bearing, not optional background; consult them before asserting a rule from memory."
 classification: trusted-input
+type: capability
 last_reviewed: 2026-07-28
 ---
 
